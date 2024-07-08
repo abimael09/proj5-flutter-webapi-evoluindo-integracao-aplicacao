@@ -1,6 +1,4 @@
-# flutter_webapi_second_course
-
-Aplicação para o segundo curso de WebAPI da Formação Flutter da Alura
+# flutter_webapi_second_proj_5
 
 ## Getting Started
 
